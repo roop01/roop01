@@ -1,6 +1,10 @@
 ### Hi, Welcome to my GitHib 👋..
 
-Currently revising my python programming concepts. I will be working on different data analytics projects to explore python libraries like pandas, numpy, matplotlib, seaborn and scikit-learn. 
+Currently revising my python programming concepts. 
+I will be working on different data analytics projects to explore python libraries like pandas, numpy, matplotlib, seaborn and scikit-learn. 
+
+
+
 <!--
 **roop01/roop01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
