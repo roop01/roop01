@@ -1,7 +1,7 @@
 ### Hi, Welcome to my GitHib 👋..
 
-Currently revising my python programming concepts. 
-I will be working on different data analytics projects to explore python libraries like pandas, numpy, matplotlib, seaborn and scikit-learn. 
+- 🔭 Currently revisiting python programming concepts. 
+- 🌱 Learning python libraries pandas, numpy, matplotlib, seaborn and scikit-learn and creating data analysis projects.
 
 
 
