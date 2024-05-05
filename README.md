@@ -1,7 +1,7 @@
 ### Hi, Welcome to my GitHib 👋..
 
-- 🔭 Currently revisiting python programming concepts. 
-- 🌱 Learning python libraries pandas, numpy, matplotlib, seaborn and scikit-learn and creating data analysis projects.
+- 🔭 Creating tutorials on python data science libraries pandas, numpy, matplotlib, seaborn and scikit-learn. Working on data analysis projects.
+- 🌱 Learning Data Science and Machine Learning concepts.
 
 
 
