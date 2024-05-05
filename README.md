@@ -2,6 +2,8 @@
 
 - 🔭 Creating tutorials on python data science libraries pandas, numpy, matplotlib, seaborn and scikit-learn. Working on data analysis projects.
 - 🌱 Learning Data Science and Machine Learning concepts.
+- 📫 Reach me out @ rupaliyadav01@gmail.com
+- ⚡ Fun Fact: If i'm not dreaming about owning a cabin in forest I'd be lifting heavy in the gym  
 
 
 
