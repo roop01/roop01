@@ -1,4 +1,4 @@
-### Hi, Welcome to my GitHib 👋..
+                                                       ### Hello, Welcome to my GitHib 👋..
 
 - 🔭 Creating tutorials on python data science libraries pandas, numpy, matplotlib, seaborn and scikit-learn. Working on data analysis projects.
 - 🌱 Learning Data Science and Machine Learning concepts.
